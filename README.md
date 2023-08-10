@@ -2,6 +2,8 @@
 
 This is the Gilded Rose kata in TypeScript.
 
+origin repo: https://github.com/emilybache/GildedRose-Refactoring-Kata
+
 ## Getting started
 
 Install dependencies
